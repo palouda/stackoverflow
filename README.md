@@ -1,5 +1,6 @@
 
 ### Table of Contents
+## CHP
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
